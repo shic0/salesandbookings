@@ -1,2 +1,6 @@
-# salesandbookings
-CV
+# CV
+
+link to see resume:
+https://shic0.github.io//
+
+Enjoy! :)
